@@ -1,0 +1,7 @@
+config.json
+dist
+Typings
+
+# Modules
+yarn.lock
+node_modules
